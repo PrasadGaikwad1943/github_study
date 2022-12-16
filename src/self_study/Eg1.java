@@ -13,7 +13,12 @@ public class Eg1 {
 			char p = m.charAt(i);
 			
 			rev=rev+p;
+			System.out.println("reverse value");
 		}
+		
+		
+		
+		
 		System.err.println(rev);
 	}
 
